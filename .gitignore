@@ -1,3 +1,4 @@
 backend/.env
 DOCUMENTATION.md
 TUTORIAL.md
+backend/__pycache__
